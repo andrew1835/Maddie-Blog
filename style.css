@@ -1,0 +1,22 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    padding: 10px 2vw;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    padding: 4px;
+}
